@@ -42,6 +42,14 @@ Interactive Excel dashboard analyzing AI job market trends including job roles, 
 
   The goal of this project is to understand AI job market trends, salary patterns, and industry demand using data visualization techniques in Excel.
 
+  Adarsh T P  
+Aspiring Data Analyst  
+LinkedIn: https://www.linkedin.com/in/adarsh-t-p-3032ba391/
+
+![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow)
+![Data Analysis](https://img.shields.io/badge/Project-Data%20Analysis-blue)
+![Dashboard](https://img.shields.io/badge/Type-Dashboard-green)
+
   ⭐ If you like this project
 
 Give it a star on GitHub ⭐
