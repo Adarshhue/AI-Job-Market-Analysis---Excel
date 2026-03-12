@@ -41,3 +41,7 @@ Interactive Excel dashboard analyzing AI job market trends including job roles, 
 🚀 Project Purpose :
 
   The goal of this project is to understand AI job market trends, salary patterns, and industry demand using data visualization techniques in Excel.
+
+  ⭐ If you like this project
+
+Give it a star on GitHub ⭐
